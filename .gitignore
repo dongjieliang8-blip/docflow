@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env
+docs/
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+docflow_report.json
+docflow_scan.json
